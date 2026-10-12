@@ -1,9 +1,29 @@
 # Merge Conflict Laboratory
 
-Project: CreditRisk Data Platform
+## Project Information
 
-Environment: Development
-Status: Pending
-Owner: Data Engineering
+**Project:** CreditRisk Data Platform
 
-Purpose: Practice Git merge conflict resolution.
+**Environment:** Development
+
+**Status:** Pending
+
+**Owner:** Data Engineering
+
+## Purpose
+
+Practice Git merge conflict detection and resolution.
+
+## Laboratory Objectives
+
+- Create two independent branches from `main`.
+- Modify the same line in both branches.
+- Detect and resolve a merge conflict.
+- Validate the final merged version.
+- Practice safe recovery using Git revert.
+
+## Notes
+
+This is a controlled training exercise using synthetic data.
+
+No production systems or real banking data are involved.
